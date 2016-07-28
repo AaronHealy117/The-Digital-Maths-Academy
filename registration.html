@@ -1,0 +1,120 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>The Digital Maths Academy</title>
+			<meta name="viewport" content="width=device-width, initial scale=1">
+			<link rel="stylesheet" href="css/bootstrap.min.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="icon" href="images/companyLogoSmaller.png">
+			
+				
+	</head>
+	<body class="bgndImg">
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+																		
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 text-center"> 	
+		
+					</div>
+					
+					<div class="col-md-6 text-center"> 			
+						<h1 class = "text-center whiteText">Welcome to the Digital Maths Academy</h1>					
+					<div class="col-md-3 text-center"> 			
+					</div>	
+				</div>
+			</div>	
+			
+		
+		
+			<div class=" container">
+				<div class="row text-center">
+					<div class="col-md-3 text-center"> 		
+
+					</div>	
+					
+					<!--Form used to register to the site, form validation is present and the form will run a PHP script 'register.php' when completed
+					  This script will script will post the new users' credentials to the database to which they can be used to login -->
+					
+					
+					<div class="col-md-6 text-center"> 	
+						<h2 class="whiteText">Please enter the required fields to complete registration</h2>
+						<br />
+						
+						<form name="registration" method="POST" action="register.php" class="form">
+						  <div class="form-group">
+							<label for="name" class="whiteText"> Name:</label>
+							<input type="text" name="name" value="" class="form-control" required>
+						  </div>
+						  
+						  <div class="form-group">
+							<label for="email" class="whiteText">Email:</label>
+							<input type="text" name="email" value="" class="form-control" required>
+						  </div>
+						  
+						  <div class="form-group">
+							<label for="school" class="whiteText">School:</label>
+							<input type="text" name="school" value="" class="form-control" required>
+						  </div>						  
+						  
+						    	<div class="form-group">
+						   		 <label for="postcode"  class="whiteText">Postcode:</label>
+								    <select class="form-control" name="postcode" value="" required>
+								    		<option value=""></option>
+									    	<option value="D1">Dublin 1</option>
+										    <option value="D2">Dublin 2</option>
+										    <option value="D3">Dublin 3</option>
+										    <option value="D4">Dublin 4</option>
+										    <option value="D5">Dublin 5</option>
+										    <option value="D6">Dublin 6</option>
+										    <option value="D7">Dublin 7</option>
+										    <option value="D8">Dublin 8</option>
+										    <option value="D9">Dublin 9</option>
+										    <option value="D10">Dublin 10</option>
+										    <option value="D11">Dublin 11</option>
+										    <option value="D12">Dublin 12</option>
+										    <option value="D13">Dublin 13</option>
+										    <option value="D14">Dublin 14</option>
+										    <option value="D15">Dublin 15</option>
+										    <option value="D16">Dublin 16</option>
+										    <option value="D17">Dublin 17</option>
+										    <option value="D18">Dublin 18</option>
+										    <option value="D19">Dublin 19</option>
+										    <option value="D20">Dublin 20</option>
+										    <option value="D21">Dublin 21</option>
+										    <option value="D22">Dublin 22</option>
+										    <option value="D23">Dublin 23</option>
+										    <option value="D24">Dublin 24</option>
+								    </select>
+  								</div>
+						  
+						  <div class="form-group">
+							<label for="password" class="whiteText">Password:</label>
+							<input type="password" name="password" class="form-control" required>
+						  </div>						  
+						  
+						  	<button type="submit" name="submit" value="submit" class="btn greenHoverBtn roundBtn">Complete Registration</button>
+						</form>							  	
+
+						  <h3 class="whiteText">Already a member? Return to login...</h3>
+						  	<a button type="submit" class="btn greenHoverBtn roundBtn"  href = "Index.php">Login</button></a>
+						  	<br />
+
+					</div>
+					
+					<div class="col-md-3 text-center"> 			
+					</div>				
+				</div>
+			</div>	
+			
+		<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<script src="js/script.js"></script>
+		
+	</body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="addition.xsl"?>
+<?xml-stylesheet type="text/xsl" href="subtraction.xsl"?>
+<?xml-stylesheet type="text/xsl" href="division.xsl"?>
+<?xml-stylesheet type="text/xsl" href="multiplication.xsl"?>
+<database>
+    <quiz>
+        <section>
+            <subject>Addition</subject>
+            <info>some info</info>
+            <notes>Study Quiz</notes>
+        </section>
+        <section>
+            <subject>Division</subject>
+            <info>stuff</info>
+            <notes>quiz</notes>
+        </section>
+        <section>
+            <subject>Multiplication</subject>
+            <info>fsad</info>
+            <notes>dasdf</notes>
+        </section>
+        <section>
+            <subject>Subtraction</subject>
+            <info>alsm</info>
+            <notes>asfsad</notes>
+        </section>
+    </quiz>
+    
+</database>

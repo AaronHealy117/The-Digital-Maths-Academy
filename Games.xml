@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="games.xsl"?>
+<?xml-stylesheet type="text/xsl" href="break.xsl"?>
+<?xml-stylesheet type="text/xsl" href="water.xsl"?>
+<database>
+  <section>
+    <games>
+      <title>Games</title>
+      <info>Game based learning is designed to balance subject matter with gameplay and the ability of the player to retain and apply said subject matter to the real world.</info>
+      <source>Infographic</source>
+      <image></image>
+    </games>
+  </section>
+  <section>
+    <break>
+      <title>Break</title>
+      <info>When studying it is very important to take a 15 minute break every hour when using a computer device, otherwise you risk fatigue and headaches, thus reducing productivity.</info>
+      <source>More information</source>
+      <image></image>
+    </break>
+  </section>
+  <section>
+    <water>
+      <title>Water</title>
+      <info>It is vital to stay hydrated when studying. De-hydration leads to increased chances of headaches and tiredness. By staying hydrated the body has more energy and is more alert.</info>
+      <source>Interesting facts about hydration</source>
+      <image></image>
+    </water>
+  </section>
+</database>

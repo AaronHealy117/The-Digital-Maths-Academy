@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="about.xsl"?>
+<?xml-stylesheet type="text/xsl" href="special.xsl"?>
+<?xml-stylesheet type="text/xsl" href="information.xsl"?>
+<?xml-stylesheet type="text/xsl" href="secure.xsl"?>
+<?xml-stylesheet type="text/xsl" href="time.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cookies.xsl"?>
+<?xml-stylesheet type="text/xsl" href="more.xsl"?>
+<database>
+    <section>
+        <about>
+            The Digital Maths Academy switches kids on to maths. It is engaging, supportive
+            and targeted for Kids aged under 12. Students across Ireland and in further
+            development will target kids worldwide, aligned for a huge variety of international
+            curricula. We love to celebrate our greatest Mathletes! Will you or your school
+            make it onto our leaderboard of top scorers? Complete your Quiz work and earn
+            points for your daily total. Digital Maths Academy gives each student its very own
+            peesonal workspace. Filleds quiz mathamatical quizzes to test you Math logic.
+            Digital Maths Academy caters for the evolving learning styles.
+        </about>
+    </section>
+    <section>
+        <special>
+            Ask your parent or guardian for permission before you send any personal
+            information over the Internet, including to our Web Sites. Digital Maths Academy
+            has no intention of seeking personal information about minors who visit our Web
+            Sites. If such information is collected, this Privacy Statement will apply to that
+            information. In addition, if we can identify a user as a minor, the personal
+            information will not be used for further marketing and promotion unless the
+            minors guardian has consented. We encourage you to ask your children to seek
+            your permission before providing information about themselves or their family
+            over the Internet.
+        </special>
+    </section>
+    <section>
+        <information>
+            To send a confirmation notice to the Registrant of the registration. 
+            To respond to any questions, concerns or problems raised by the Registrant. 
+            To send out a Digital Maths Academy Learning newsletter or emails about the
+            Site. 
+            To publish the names of winners and high performers on the Site or in the
+            Digital Maths Academy newsletter and to provide all the results data for each Registrant.
+            To send leaderboard results for participation and performance on the Site.
+        </information>
+    </section>
+    <section>
+        <secure>
+            Digital Maths Academy is committed to information security. We will use all
+            reasonable endeavours to keep Registrants personal information in a secure
+            environment. For instance, each Registrants personal information is encrypted
+            whilst being sent to our server at the time of registration. However, security
+            cannot be guaranteed due to the nature of the internet. Digital Maths Academy
+            security measures are designed to assist in Registrants personal information not
+            being accessed by unauthorised personnel, lost or misused. If you reasonably 
+            believe that there has been an unauthorised use or disclosure of your personal
+            information please let us know by contacting our Privacy and Data Protection
+            Officer (contact details below).
+        </secure>
+    </section>
+    <section>
+        <time>
+            We will keep any personal information we collect from Registrants for as long as
+            they are registered users of the Site. If a Registrant cancels their registration or it
+            otherwise lapses after 3 years of not using the Site, we will only keep their
+            personal information for the purposes of sending the Registrant information
+            regarding Digital Maths Academys learning other products and services if they
+            agree to receive this information. Personal information is otherwise deleted or
+            destroyed.
+        </time>
+    </section>
+    <section>
+        <cookies>
+            A cookie is a little piece of information handed to a web browser from a web
+            server that contains information that can be retrieved from the server later. When
+            you visit the Site the server may attach a cookie to your computers memory.
+            Digital Maths Academy uses cookies only to the limited extent to recognise the
+            Registrant when they visit the Site and pairing that Registrant with the account
+            (and account preferences) that the Registrant created. However, this information
+            is not linked to any personal information that Registrant may provide and cannot
+            be used to identify Registrants. You should be able to configure your computer so
+            that it disables cookies. To help us better understand you needs and better share
+            content, we also use analytical software. This software will save a cookie to your
+            computers hard drive in order to track and monitor your engagement and usage
+            of the website but will not store, save or collect personal information. You can
+            read Google's privacy policy here for further information. Other cookies may
+            be stored to your computers hard drive when this website uses referral programs,
+            sponsored links or adverts which is extremely rare. Such cookies typically
+            expire after 30 days, though some may take longer. No personal information is
+            stored, saved or collected without your consent.
+        </cookies>
+    </section>
+    <section>
+        <more>
+            Get in touch with our friendly team of educational specialists at The Digital Maths
+            Academy Contact Page. We want to hear from you. We will always respond to
+            questions within 24 Hours! Garenteed.
+        </more>
+    </section>
+</database>

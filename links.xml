@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="links.xsl"?>
+<database>
+    <subject>
+        <maths>
+            <notes>Click here for some additional notes!</notes>
+            <website>Click here for even more notes! </website>
+            <resources>Click here for additional helpful websites!</resources>
+            <image></image>
+        </maths>
+    </subject>
+</database>
