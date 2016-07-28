@@ -1,0 +1,394 @@
+body{
+ font-family:ColabThi;
+}
+
+.container1{
+	background-color:white;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+/*------image/text hover css-----*/
+#quizInvert:hover img {
+    -webkit-filter: invert(50%) !important;
+}
+#quizInvert:hover {
+   color:#379e93;
+}
+#heading1:hover{
+	color:#379e93;
+}
+
+
+/*----------Images & Backgrounds----------*/
+.bgndImg{
+ background-image: url("../images/abacus3.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.body1{
+background-image:url('../images/geryImage.png');
+background-attachment: scroll; /* default */
+background-attachment: fixed; /* force image to stay put */
+}
+
+.jumbotron1{
+width:100%;
+min-height:400px;
+}
+
+.jumbotron2{
+width:100%;
+min-height:400px;
+}
+
+
+.image1{
+	background-image:url('../images/pattern1.png');
+}
+
+
+.jumbotron{
+	background-image:url('../images/jumbotronPattern.png') ;
+	background-attachment: scroll; /* default */
+background-attachment: fixed; /* force image to stay put */
+}
+
+.jumbotronGame{
+	background-color:#FFA258;
+}
+.topFooter{
+	background-color:#333;
+}
+
+.footerBackground{
+background-color:#FF9F58;
+}
+
+.subjectHomeImg{
+	width:65%;
+	height:auto;
+}
+
+.QuizImg{
+	width:40%;
+	height:auto;
+
+}
+
+.subjectsImg{
+	width:40%;
+	height:auto;
+	opacity:1.0;		
+}
+
+.iconSetHome{
+	width:30%;
+	height:auto;
+	opacity:0.8;	
+}
+
+
+.leaderboardImg{
+	width:75%;
+	height:auto;
+}
+
+
+.footerIcon{
+	width:30%;
+	height:auto;
+}
+
+.homeSection2{
+	background-color:#333;
+}
+
+.homeSection3{
+	background-color:#FF9F58;
+}
+
+.imgContact{
+	width:65%;
+	height:auto;
+	opacity:0.6;
+}
+
+.underline{
+	 text-decoration: underline;
+}
+
+.aboutBackground1{
+	background-color:#FF9F58;
+}
+
+.aboutBackground2{
+	background-color:#379e93;
+}
+
+.quizTrophy{
+	width:50%;
+	height:auto;
+}
+
+.companyLogo{
+	width:50%;
+	height:auto;
+}
+
+.logo{
+	width:40%;
+}
+/*----------Custom Button Styling, Forms, Navbar & HR----------*/
+.squareBtn{
+	border-radius:0;
+}
+
+.roundBtn{
+	 border-radius:3.5px;
+}
+
+
+.greenHoverBtn{
+    color: #ffffff;
+    background:#333;
+}
+ 
+.greenHoverBtn:hover{
+    background:#379e93;
+        color: #ffffff;
+}
+
+.form-control{
+	border-color: #333;
+	color:#fff;
+  background-color: #333;
+
+  
+}
+
+.form-control:focus {
+  border-color: #379e93;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(55, 158, 147, 0.6);
+}
+
+.customColourNavbar{
+	background-color:#fff;
+	color:#379e93;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #379e93;
+    color: #fff;
+}
+
+.shortHr{
+	width:75%;
+}
+/*----------Text----------*/
+.whiteText{
+	color:#FFFFFF;
+}
+
+.orangeText{
+	color:#FF9F58;
+}
+
+.redText{
+	color:#8B0000;
+}
+
+.greenText{
+	color:#006400;
+}
+
+.purpleText{
+	color:#663399;
+}
+.blueText{
+	color:#00008B;
+}
+.lightGreyText{
+	color:#696969;
+}
+
+.darkGreyText{
+	color:#333;
+}
+
+.blackText{
+	color:black;
+}
+
+.mediumFont{
+	font-size:medium;
+}
+
+.largeFont{
+	font-size:large;
+}
+/*----------Padding----------*/
+.smlPadding{
+	padding-top:10px;
+	padding-bottom:10px;		
+}
+
+.medPadding{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+.lrgPadding{
+	padding-top:60px;
+	padding-bottom:60px;	
+	
+}
+
+.xlPadding{
+	padding-top:100px;
+	padding-bottom:100px;	
+}
+
+.medPaddingTop{
+	padding-top:40px;
+}
+
+.lrgPaddingTop{
+	padding-top:50px;
+}
+
+/*----------Custom Fonts Import----------*/
+@font-face {
+ font-family:ColabThi;
+ src: url(../fonts/ColabThi.otf);
+}
+
+@font-face {
+ font-family:ColabReg;
+ src: url(../fonts/ColabReg.otf);
+}
+
+/*----------side bar----------*/
+
+ul.horizontal{
+margin:0;
+padding:0;
+}
+
+
+ul.horizontal li{
+display:block;
+float:left;
+padding:0 10px;
+}
+
+
+/*------game page and games css-------*/
+.item{
+	margin-top:0px;
+	width:100%;
+	height:400px;
+}
+
+
+.box {
+	margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px 15px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+  
+}
+
+.goblin{
+	width:200px;
+	height:200px;
+	float:right; 
+}
+
+.goblin1{
+	width:200px;
+	height:200px;
+	float:left; 
+}
+
+.goblin2{
+	width:auto;
+	height:auto;
+	float:right; 
+}
+
+.xslimage{
+	width:200px;
+	height:200px;
+}
+
+
+/*----------Quiz----------*/
+
+
+#quiz input {
+    vertical-align: middle;
+}
+
+#quiz ol {
+   margin: 0 0 10px 20px;
+}
+
+#quiz ol li {
+    font-size:30px;
+    color: #666;
+    margin: 0 0 20px 0;
+}
+
+#quiz ol li div {
+   padding: 4px 0;
+}
+
+#quiz h3 {
+   font-size: 40px; margin: 0 0 1px 0; color: #000000;
+}
+
+#results {
+    font: 44px Georgia, Serif;
+}
+
+/*input[type=radio] {
+    border: 0px;
+    height: 50px;
+}*/
+
+
+
+/*--------table-------*/
+table.sample {
+    width: 700px;
+    margin: 20px;
+    float:center;
+    background-color:#C0C0C0 ;
+    border: 2px solid black;
+    font-size:large;
+}
+
+td,th{
+	padding: 5px;
+}
+th{
+	color:black;
+}
+
+.table-bordered{
+	font-size:large;
+	width:800px;
+}
+
+.table111{
+	width:500px;
+}
+
+
+
+
